@@ -208,6 +208,8 @@ GROUP BY RoomType
 HAVING HSRP >= 5000
 ORDER BY RoomType DESC;
 
+-- Hey I'm using Git
+
 -- Subqueries
 -- Sub 1 (Complex)
 SELECT *
